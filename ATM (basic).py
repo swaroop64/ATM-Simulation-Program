@@ -4,14 +4,15 @@ What do we need for an ATM?
 1.Credit
 2.Debit
 3.Mini statement
-4.Exit'''
+4.Exit
+'''
 
 atm='''
 1.Credit
 2.Debit
 3.Mini statement
 4.Exit
-'''               #string format
+'''              
 
 Amount = 500
 user="Swaroop"
